@@ -1,0 +1,2 @@
+# fees
+get Bitso fees 
